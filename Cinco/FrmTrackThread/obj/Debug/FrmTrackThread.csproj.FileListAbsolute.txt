@@ -1,0 +1,43 @@
+C:\Users\hervi\source\repos\FrmTrackThread\FrmTrackThread\bin\Debug\FrmTrackThread.exe.config
+C:\Users\hervi\source\repos\FrmTrackThread\FrmTrackThread\bin\Debug\FrmTrackThread.exe
+C:\Users\hervi\source\repos\FrmTrackThread\FrmTrackThread\bin\Debug\FrmTrackThread.pdb
+C:\Users\hervi\source\repos\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csprojAssemblyReference.cache
+C:\Users\hervi\source\repos\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.Form1.resources
+C:\Users\hervi\source\repos\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.Properties.Resources.resources
+C:\Users\hervi\source\repos\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.GenerateResource.cache
+C:\Users\hervi\source\repos\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.CoreCompileInputs.cache
+C:\Users\hervi\source\repos\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.exe
+C:\Users\hervi\source\repos\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.pdb
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\bin\Debug\FrmTrackThread.exe.config
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\bin\Debug\FrmTrackThread.exe
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\bin\Debug\FrmTrackThread.pdb
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.AssemblyReference.cache
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.Form1.resources
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.Properties.Resources.resources
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.GenerateResource.cache
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.exe
+C:\Users\RYZEN\Desktop\04Tp(Calimon_Hervie)\FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.pdb
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\bin\Debug\FrmTrackThread.exe.config
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\bin\Debug\FrmTrackThread.exe
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\bin\Debug\FrmTrackThread.pdb
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.AssemblyReference.cache
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.Form1.resources
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.Properties.Resources.resources
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.GenerateResource.cache
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.CoreCompileInputs.cache
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.exe
+C:\Users\garcia.261126\Downloads\TPMolina Kenneh-FrmTrackThread\FrmTrackThread\obj\Debug\FrmTrackThread.pdb
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\bin\Debug\FrmTrackThread.exe.config
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\bin\Debug\FrmTrackThread.exe
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\bin\Debug\FrmTrackThread.pdb
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.AssemblyReference.cache
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.SuggestedBindingRedirects.cache
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\obj\Debug\FrmTrackThread.Form1.resources
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\obj\Debug\FrmTrackThread.Properties.Resources.resources
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.GenerateResource.cache
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\obj\Debug\FrmTrackThread.csproj.CoreCompileInputs.cache
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\obj\Debug\FrmTrackThread.exe
+C:\Users\garcia.261126\Downloads\Cinco\FrmTrackThread\obj\Debug\FrmTrackThread.pdb
